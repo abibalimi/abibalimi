@@ -1,13 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm Abib
 
 <!--
 **abibalimi/abibalimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- :mage: I'm Abib, a research scientist holding a Ph.D in Computational Neurimaging from Inria, France.
+- :mage: Research scientist holding a Ph.D in Computational Neurimaging from Inria, France.
 - ✨ Former Postdoctoral Research Associate in the Computer Science Department, at Princeton University, NJ.
-- 🌱 Currently transitioning into AI research and developping a solide foundation in understanding AI Safety and Alignment challenges.
+- 🌱 Currently transitioning into Artificial Intelligence research and developping a solide foundation in understanding AI Safety and Alignment challenges.
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/abib-olushola-alimi/) or [here](https://abibalimi.github.io) .
 
 <!-- 
