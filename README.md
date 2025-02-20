@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- :mage: Research scientist, Ph.D in Computational Neuroimaging from Inria, Unversité CIote d'Azur, France.
+- :mage: Research scientist, Ph.D in Computational Neuroimaging from Inria, Unversité Côte d'Azur, France.
 - ✨ Former Postdoctoral Research Associate in the Computer Science Department, at Princeton University, NJ.
 - 🌱 Currently transitioning into Artificial Intelligence research and developping a solide foundation in understanding AI Safety and Alignment challenges.
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/abib-olushola-alimi/) or [here](https://abibalimi.github.io) .
