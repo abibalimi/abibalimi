@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 -->
 - :mage: Research scientist, Ph.D in Computational Neuroimaging from Inria Unversité Côte d'Azur, France.
 - ✨ Formerly Postdoctoral Research Associate in Computer Science at Princeton University, NJ, USA.
-<!-- 🌱 Currently transitioning into Artificial Intelligence research and developping a solide foundation in understanding AI Safety and Alignment challenges.-->
 - 🌱 Currently exploring learning-based approches for multi-scale and multi-modal imaging .
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/abib-olushola-alimi/) or [here](https://abibalimi.github.io) .
 
 <!-- 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
+<!-- 🌱 Currently transitioning into Artificial Intelligence research and developping a solide foundation in understanding AI Safety and Alignment challenges.-->
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
